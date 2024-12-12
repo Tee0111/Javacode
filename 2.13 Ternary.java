@@ -12,7 +12,7 @@ public class hello {
 		
 		int n=5;
 		int result=0;
-		result = n%2==0 ? 10 : 20;
+		result = n%2==0 ? 10 : 20;    //if it's an even number it'll print 10, ifnot will print 20
 		System.out.println(result);
 	}
 
