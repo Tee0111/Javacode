@@ -24,7 +24,7 @@ public class hello {
 			break;
 		case 2:
 			System.out.println("Tuesday");
-			break;
+			break;     // without the breakit will print everythung below it
 		case 3:
 		System.out.println("Wednesday");
 			break;
